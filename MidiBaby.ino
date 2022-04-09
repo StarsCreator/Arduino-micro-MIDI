@@ -11,7 +11,7 @@
 
 #define COMMAND_PER_EVENT_COUNT 4 // event per button
 
-#define SETTINGS_EEPROM_ADDRESS 5
+#define SETTINGS_EEPROM_ADDRESS 50
 #define COMMANDS_EEPROM_ADDRESS 100
 
 //Settings
