@@ -5,7 +5,7 @@
 #include <ExpressionPedal.h>
 #include <EEPROM.h>
 
-#define BUTTONS_COUNT 1
+#define BUTTONS_COUNT 2
 
 #define BUTTON_DEBOUNCE 50
 
