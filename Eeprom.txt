@@ -1,12 +1,13 @@
-00  controller type
+
 01  ver
 02  ver
 03  ver
 04  ---
 05  settings flags
-06  expPedalContr1
-07  expPedalChannel1
+06  expPeadlContr1
+07  expPedagChannel1
 08  expPedalContr2
 09  expPedalChannel2
+10  test
 
 100  command data
