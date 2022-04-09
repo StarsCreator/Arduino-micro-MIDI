@@ -7,7 +7,8 @@
 
 #define BUTTONS_COUNT 1
 
-#define BUTTON_DEBOUNCE 40
+#define BUTTON_DEBOUNCE 50
+
 
 #define COMMAND_PER_EVENT_COUNT 4 // event per button
 
