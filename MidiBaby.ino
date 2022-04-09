@@ -14,7 +14,7 @@
 #define SETTINGS_EEPROM_ADDRESS 50
 #define COMMANDS_EEPROM_ADDRESS 100
 
-//Settings
+//Settingss
 Settings settings;
 
 //Expression Pedal
