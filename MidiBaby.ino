@@ -5,13 +5,11 @@
 #include <ExpressionPedal.h>
 #include <EEPROM.h>
 
-#define BUTTONS_COUNT 2
+#define BUTTONS_COUNT 1
 
 #define BUTTON_DEBOUNCE 50
 
-
 #define COMMAND_PER_EVENT_COUNT 4 // event per button
-
 
 #define SETTINGS_EEPROM_ADDRESS 5
 #define COMMANDS_EEPROM_ADDRESS 100
